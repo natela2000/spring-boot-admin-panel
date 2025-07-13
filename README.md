@@ -42,13 +42,36 @@
 
 ---
 
+### 🔍 Project Structure (Preview Only)
+
+```plaintext
+📦 Customizable-Admin-Panel
+├── src/
+│   ├── main/
+│   │   ├── java/com/adminpanel/
+│   │   ├── resources/
+│   └── test/
+├── pom.xml
+├── database/
+│   └── admin_panel_schema.sql
+├── README.md
+```
+
+---
+
 ## 🖼️ Screenshots
 
-### Inventory Dashboard  
-![Inventory](preview/spring-boot-admin-panel-dashboard.png)
-
-### Login Page  
+### Login Page
 ![Login](preview/spring-boot-admin-panel-login-page.png)
+
+### Dashboard
+![Dashboard](preview/spring-boot-admin-panel-dashboard.png)
+
+### User Management  
+![User Management](preview/spring-boot-users-management-crud.png)
+
+### Inventory Management  
+![Inventory Management](preview/spring-boot-inventory-management-crud.png)
 
 ---
 
