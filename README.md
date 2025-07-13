@@ -1,4 +1,4 @@
-# Spring Boot Admin Panel – Java CRUD Backend
+# Spring Boot Admin Panel – Java Inventory System with RBAC (Full Source Code)
 
 🚀 A developer-ready Spring Boot Admin Panel with:
 
@@ -64,11 +64,21 @@
 
 ---
 
-## 🔗 More Info
-
-📰 [Dev.to Blog](https://dev.to/ithustle/spring-boot-admin-panel-with-inventory-rbac-full-source-code-2ign)  
+## 📺 Watch the 2-Minute Walkthrough  
 ▶️ [YouTube Demo](https://www.youtube.com/watch?v=q2F8-HT7l74)
 
 ---
 
+## 🔗 More Info
+
+📰 [Dev.to Blog](https://dev.to/ithustle/spring-boot-admin-panel-with-inventory-rbac-full-source-code-2ign)
+
+---
+
 > 🧠 Want to build faster? Use this as your backend base.
+---
+
+## 📈 SEO Keywords (for Discovery)
+
+spring boot admin panel, springboot starter kit, java inventory system, CRUD backend, RBAC login java,
+spring boot dashboard, admin panel source code, spring boot crud
